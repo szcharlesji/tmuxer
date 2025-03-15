@@ -2,6 +2,8 @@
 
 A tmux session starter to quickly launch your personal and work projects with predefined layouts.
 
+![tmr](assets/tmr.png)
+
 ```
 ████████╗███╗   ███╗██╗   ██╗██╗  ██╗███████╗██████╗
 ╚══██╔══╝████╗ ████║██║   ██║╚██╗██╔╝██╔════╝██╔══██╗
