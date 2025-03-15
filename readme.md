@@ -2,8 +2,6 @@
 
 A tmux session starter to quickly launch your personal and work projects with predefined layouts.
 
-![tmr](assets/tmr.png)
-
 ```
 ████████╗███╗   ███╗██╗   ██╗██╗  ██╗███████╗██████╗
 ╚══██╔══╝████╗ ████║██║   ██║╚██╗██╔╝██╔════╝██╔══██╗
@@ -14,6 +12,8 @@ A tmux session starter to quickly launch your personal and work projects with pr
 ```
 
 **tmuxer** is a bash script that simplifies tmux session management and project navigation. It allows you to quickly create, attach to, and manage tmux sessions with predefined layouts for different workflows. Based on ThePrimeagen's [tmux-sessionizer](https://github.com/ThePrimeagen/.dotfiles/blob/master/bin/.local/scripts/tmux-sessionizer)
+
+![tmr](assets/tmr.png)
 
 ## Quick Start
 
