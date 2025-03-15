@@ -15,7 +15,14 @@ A tmux session starter to quickly launch your personal and work projects with pr
 
 ## Quick Start
 
-### Option 1: Manual Installation
+### Option 1: Homebrew (recommended)
+
+```bash
+brew tap szcharlesji/formulae
+brew install tmuxer
+```
+
+### Option 2: Manual Installation
 
 1. Clone the repository:
 
